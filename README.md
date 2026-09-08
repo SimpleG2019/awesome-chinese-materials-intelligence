@@ -12,7 +12,7 @@
 
 ## 🌐 Official Platform & Endpoints
 * **Web Portal**: [https://sinotechintel.com](https://sinotechintel.com)
-* **Complete Research Catalog**: [CATALOG.md](CATALOG.md) (400 Curated Publications)
+* **Complete Research Catalog**: [CATALOG.md](CATALOG.md) (1377 Curated Publications)
 * **XML Sitemap Feed**: [https://sinotechintel.com/articles-sitemap.xml](https://sinotechintel.com/articles-sitemap.xml)
 
 ---
