@@ -1,9 +1,9 @@
-# 📚 SinoTechIntel Curated Open Intelligence Catalog (2,152 Papers)
+# 📚 SinoTechIntel Curated Open Intelligence Catalog (2,154 Papers)
 
 > Verified, peer-reviewed authentic Chinese research breakthroughs in **Advanced Materials, Metallurgy & Deep Tech**.
 > Maintained by [SinoTechIntel](https://sinotechintel.com) | Open Access & Machine-Readable.
 
-*Last Synchronized: 2026-09-25 13:06:41 UTC*
+*Last Synchronized: 2026-09-26 09:31:03 UTC*
 
 | # | Paper Title | DOI / Identifiers | Verified Reading Link |
 |---|---|---|---|
@@ -2159,3 +2159,5 @@
 | 2150 | **Life cycle dynamic formation temperature response and thermal energy extraction of mine geothermal system considering groundwater flow** | [`10.1016/j.ijmst.2024.12.011`](https://doi.org/10.1016/j.ijmst.2024.12.011) | [Read on SinoTechIntel](https://sinotechintel.com/paper/life-cycle-dynamic-formation-temperature-response-and-thermal-energy-extraction-of-mine-geothermal-system-cons) |
 | 2151 | **Dynamic damage characteristics and control mechanism of rocks anchored by constant resistance and energy absorption material** | [`10.1016/j.ijmst.2024.12.005`](https://doi.org/10.1016/j.ijmst.2024.12.005) | [Read on SinoTechIntel](https://sinotechintel.com/paper/dynamic-damage-characteristics-and-control-mechanism-of-rocks-anchored-by-constant-resistance-and-energy-absor) |
 | 2152 | **Quantitative principles of dynamic interaction between rock support and surrounding rock in rockburst roadways** | [`10.1016/j.ijmst.2024.12.009`](https://doi.org/10.1016/j.ijmst.2024.12.009) | [Read on SinoTechIntel](https://sinotechintel.com/paper/quantitative-principles-of-dynamic-interaction-between-rock-support-and-surrounding-rock-in-rockburst-roadways) |
+| 2153 | **Critical Review of Depolymerization Planning and Risk Analysis of Carbon Capture Utilization and Storage (CCUS) toward Carbon Neutrality** | [`10.12363/issn.1001-1986.25.09.0689`](https://doi.org/10.12363/issn.1001-1986.25.09.0689) | [Read on SinoTechIntel](https://sinotechintel.com/paper/critical-review-of-depolymerization-planning-and-risk-analysis-of-carbon-capture-utilization-and-storage-ccus) |
+| 2154 | **Deciphering the Enigma: A Critical Re-examination of the Research Text** | [`10.12363/issn.1001-1986.25.07.0512`](https://doi.org/10.12363/issn.1001-1986.25.07.0512) | [Read on SinoTechIntel](https://sinotechintel.com/paper/deciphering-the-enigma-a-critical-re-examination-of-the-research-text) |
