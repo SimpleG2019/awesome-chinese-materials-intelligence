@@ -1,9 +1,9 @@
-# 📚 SinoTechIntel Curated Open Intelligence Catalog (4,715 Papers)
+# 📚 SinoTechIntel Curated Open Intelligence Catalog (4,964 Papers)
 
 > Verified, peer-reviewed authentic Chinese research breakthroughs in **Advanced Materials, Metallurgy & Deep Tech**.
 > Maintained by [SinoTechIntel](https://sinotechintel.com) | Open Access & Machine-Readable.
 
-*Last Synchronized: 2026-10-10 13:07:44 UTC*
+*Last Synchronized: 2026-10-11 03:21:43 UTC*
 
 | # | Paper Title | DOI / Identifiers | Verified Reading Link |
 |---|---|---|---|
